@@ -1,2 +1,2 @@
-# coding-interviews
+# coding-tests
 All coding tests
